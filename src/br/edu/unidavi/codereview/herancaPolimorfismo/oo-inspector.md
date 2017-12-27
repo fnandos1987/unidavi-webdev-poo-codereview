@@ -113,6 +113,5 @@ Disponível em: https://www.ibm.com/developerworks/library/j-genericdao/index.htm
 ## Ferramenta
 1) Possuir métodos da superclasse com comportamento diferenciado.
 
-
 ## Inspeção
 
